@@ -1,0 +1,23 @@
+{
+  "name": "js-empty-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "./node_modules/.bin/eslint --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwyj123/js-empty-template.git"
+  },
+  "author": "lwyj123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwyj123/js-empty-template/issues"
+  },
+  "homepage": "https://github.com/lwyj123/js-empty-template#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
